@@ -96,7 +96,10 @@ dependencies:
   - pygments=2.18.0=pyhd8ed1ab_0
   - pyparsing=3.2.0=pyhd8ed1ab_1
   - pysocks=1.7.1=pyh0701188_6
-  - python=3.12
+  - python=3.13.0=hf5aa216_100_cp313
+  - python-dateutil=2.9.0=pyhd8ed1ab_0
+  - python-tzdata=2024.2=pyhd8ed1ab_0
+  - python_abi=3.13=5_cp313
   - pytz=2024.1=pyhd8ed1ab_0
   - pywin32=307=py313h5813708_3
   - pyzmq=26.2.0=py313h2100fd5_3
